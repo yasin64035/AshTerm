@@ -21,7 +21,7 @@ export default {
             description: 'About Me.',
             usage: 'about',
             fn: () => {
-                return "About Me.\n---\nmale\n18\nstudent\nsolodev\nmelophile\nweeb\ndumb\napathetic\n---\n"
+                return "About Me.\n---\nmale\n19\nstudenthellllo\nsolodev\nmelophile\nweeb\ndumb\napathetic\n---\n"
             }
         },
         twitter: {
