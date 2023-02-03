@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AshTerm/static/css/main.f171ea3a.css",
+    "main.js": "/AshTerm/static/js/main.f7337b73.js",
+    "static/media/base.png": "/AshTerm/static/media/base.9dd39229c2f69940f63a.png",
+    "index.html": "/AshTerm/index.html",
+    "main.f171ea3a.css.map": "/AshTerm/static/css/main.f171ea3a.css.map",
+    "main.f7337b73.js.map": "/AshTerm/static/js/main.f7337b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f171ea3a.css",
+    "static/js/main.f7337b73.js"
+  ]
+}
